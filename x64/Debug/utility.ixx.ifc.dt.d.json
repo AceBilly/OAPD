@@ -1,0 +1,10 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\programdata\\documents\\cpp\\oapd\\src\\modules\\utility.ixx",
+        "ProvidedModule": "utility",
+        "Includes": [],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

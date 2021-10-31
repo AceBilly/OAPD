@@ -1,0 +1,9 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\programdata\\documents\\cpp\\oapd\\src\\modules\\sort.ixx",
+        "ProvidedModule": "sort",
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

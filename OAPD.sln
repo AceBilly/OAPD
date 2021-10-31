@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31825.309
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OAPD", "OAPD.vcxproj", "{E50F16E8-B141-433E-ADA1-4D53FE86090B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E50F16E8-B141-433E-ADA1-4D53FE86090B}.Debug|x64.ActiveCfg = Debug|x64
+		{E50F16E8-B141-433E-ADA1-4D53FE86090B}.Debug|x64.Build.0 = Debug|x64
+		{E50F16E8-B141-433E-ADA1-4D53FE86090B}.Debug|x86.ActiveCfg = Debug|Win32
+		{E50F16E8-B141-433E-ADA1-4D53FE86090B}.Debug|x86.Build.0 = Debug|Win32
+		{E50F16E8-B141-433E-ADA1-4D53FE86090B}.Release|x64.ActiveCfg = Release|x64
+		{E50F16E8-B141-433E-ADA1-4D53FE86090B}.Release|x64.Build.0 = Release|x64
+		{E50F16E8-B141-433E-ADA1-4D53FE86090B}.Release|x86.ActiveCfg = Release|Win32
+		{E50F16E8-B141-433E-ADA1-4D53FE86090B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DB8688C-4490-4D4A-B8F8-F32D0590ED6C}
+	EndGlobalSection
+EndGlobal
