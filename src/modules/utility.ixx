@@ -17,4 +17,4 @@ export {
   struct remove_arrayref<T(&)[N], N> {
     using type = T;
   };
-}
+};

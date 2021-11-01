@@ -78,7 +78,8 @@
             "c:\\program files (x86)\\windows kits\\10\\include\\10.0.19041.0\\ucrt\\corecrt_terminate.h",
             "d:\\program files\\microsoft visual studio\\2022\\preview\\vc\\tools\\msvc\\14.30.30705\\include\\xatomic.h",
             "d:\\program files\\microsoft visual studio\\2022\\preview\\vc\\tools\\msvc\\14.30.30705\\include\\tuple",
-            "d:\\program files\\microsoft visual studio\\2022\\preview\\vc\\tools\\msvc\\14.30.30705\\include\\xpolymorphic_allocator.h"
+            "d:\\program files\\microsoft visual studio\\2022\\preview\\vc\\tools\\msvc\\14.30.30705\\include\\xpolymorphic_allocator.h",
+            "d:\\program files\\microsoft visual studio\\2022\\preview\\vc\\tools\\msvc\\14.30.30705\\include\\array"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

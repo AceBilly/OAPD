@@ -8,10 +8,6 @@
             {
                 "Name": "sort",
                 "BMI": "D:\\ProgramData\\Documents\\CPP\\OAPD\\x64\\Debug\\sort.ixx.ifc"
-            },
-            {
-                "Name": "utility",
-                "BMI": "D:\\ProgramData\\Documents\\CPP\\OAPD\\x64\\Debug\\utility.ixx.ifc"
             }
         ],
         "ImportedHeaderUnits": []

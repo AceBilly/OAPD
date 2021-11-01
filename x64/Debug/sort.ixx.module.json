@@ -3,9 +3,7 @@
     "Data": {
         "Source": "d:\\programdata\\documents\\cpp\\oapd\\src\\modules\\sort.ixx",
         "ProvidedModule": "sort",
-        "ImportedModules": [
-            "utility"
-        ],
+        "ImportedModules": [],
         "ImportedHeaderUnits": []
     }
 }
