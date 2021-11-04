@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# Visual studio configure file
+Debug
+build

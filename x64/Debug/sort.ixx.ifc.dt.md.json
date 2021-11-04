@@ -3,7 +3,11 @@
     "Data": {
         "Source": "d:\\programdata\\documents\\cpp\\oapd\\src\\modules\\sort.ixx",
         "ProvidedModule": "sort",
-        "ImportedModules": [],
+        "ImportedModules": [
+            "sort.merge_sort",
+            "sort.insert_sort",
+            "sort.heap_sort"
+        ],
         "ImportedHeaderUnits": []
     }
 }

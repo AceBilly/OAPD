@@ -1,4 +1,5 @@
 export module utility;
+
 // TODO: <=> not right;
 export template <typename T>
 concept Comparable = requires(T a, T b) {

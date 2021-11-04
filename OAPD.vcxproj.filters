@@ -19,16 +19,28 @@
     <Filter Include="Source Files\concepts_cd">
       <UniqueIdentifier>{6699f2d5-fcbd-4d5f-a695-394117295b3e}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\modules\sort">
+      <UniqueIdentifier>{029e1e0c-2481-450f-9f7e-79389f607768}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\modules\sort.ixx">
-      <Filter>Source Files\modules</Filter>
-    </ClCompile>
     <ClCompile Include="src\modules\utility.ixx">
       <Filter>Source Files\modules</Filter>
+    </ClCompile>
+    <ClCompile Include="src\modules\sort.ixx">
+      <Filter>Source Files\modules\sort</Filter>
+    </ClCompile>
+    <ClCompile Include="src\modules\merge_sort.ixx">
+      <Filter>Source Files\modules\sort</Filter>
+    </ClCompile>
+    <ClCompile Include="src\modules\insert_sort.ixx">
+      <Filter>Source Files\modules\sort</Filter>
+    </ClCompile>
+    <ClCompile Include="src\modules\heap_sort.ixx">
+      <Filter>Source Files\modules\sort</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

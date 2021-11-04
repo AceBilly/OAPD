@@ -121,6 +121,9 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="src\main.cpp" />
+    <ClCompile Include="src\modules\heap_sort.ixx" />
+    <ClCompile Include="src\modules\insert_sort.ixx" />
+    <ClCompile Include="src\modules\merge_sort.ixx" />
     <ClCompile Include="src\modules\sort.ixx">
       <FileType>CppModule</FileType>
     </ClCompile>
